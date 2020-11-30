@@ -4,12 +4,8 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
 	profiles="urn:mpeg:dash:profile:isoff-live:2011"
-	type="dynamic"
-	minimumUpdatePeriod="PT500S"
-	suggestedPresentationDelay="PT16S"
-	availabilityStartTime="2020-11-30T20:17:12Z"
-	publishTime="2020-11-30T20:32:42Z"
-	timeShiftBufferDepth="PT27M46.6S"
+	type="static"
+	mediaPresentationDuration="PT14M30.5S"
 	minBufferTime="PT33.3S">
 	<ProgramInformation>
 	</ProgramInformation>
