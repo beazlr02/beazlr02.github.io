@@ -6,11 +6,11 @@
 	profiles="urn:mpeg:dash:profile:isoff-live:2011"
 	type="dynamic"
 	minimumUpdatePeriod="PT500S"
-	suggestedPresentationDelay="PT16S"
+	suggestedPresentationDelay="PT8S"
 	availabilityStartTime="2020-11-30T16:44:35Z"
-	publishTime="2020-11-30T16:49:02Z"
-	timeShiftBufferDepth="PT27M46.6S"
-	minBufferTime="PT33.3S">
+	publishTime="2020-11-30T16:49:10Z"
+	timeShiftBufferDepth="PT13M53.3S"
+	minBufferTime="PT16.6S">
 	<ProgramInformation>
 	</ProgramInformation>
 	<Period id="0" start="PT0.0S">
